@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#home {
+    margin-top: 20px;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+}
+
+#about, #quiz, #feedback {
+    margin-top: 50px;
+    margin-left: 0px;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 10px 0;
+}
